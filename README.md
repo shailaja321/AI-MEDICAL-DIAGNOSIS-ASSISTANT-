@@ -11,10 +11,19 @@ pinned: false
 short_description: 'AI medical diagnostic chatbot will diagnosis the symptoms '
 license: mit
 ---
+# Overview 
+This project was done during my Viswam.ai Internship as an AI Intern Developer , this project was done as a TEAM (AI MEDIVISION)  
+Member 1: [manibyra] – Frontend & user Growth
+Member 2: [gorileshailaja] – AI Integration & Documentation
+Member 3: [pooja25] – Testing & Optimization
+Member 4: [akhilbudige] – Streamlit Integration & Community Engagement
+Member 5: [nayan_2069] – Backend & Optimization
 
 # 🧠 AI Medical Diagnostic Chatbot
 
 This is a Flask-based AI-powered Medical Diagnostic Chatbot that dynamically interacts with users, gathers symptom details, and suggests possible conditions based on a rule-based symptom matching system.
+To experience click this link :
+https://huggingface.co/spaces/Shailajagorile/AI-Medical-Diagnosis-Assistant
 
 ## 🚀 Features
 
@@ -63,6 +72,9 @@ Diagnosis Rules:
 
 📦 Deployment
 Deployed on Hugging Face Spaces using Docker and .huggingface.yml.
+
+# Feedback
+https://docs.google.com/spreadsheets/d/15oDv5QK3g_YceaVuPrrtPSVuJW07ZQVRPpzMj2PXnvk/edit?usp=sharing
 
 📃 License
 This project is licensed under the MIT License. See LICENSE for more information.
